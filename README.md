@@ -34,6 +34,7 @@ InitService에 1명의 유저와 2명의 회사를 미리 등록
 
 
 ## 1.채용공고 등록
+---
 
 ### Request
 
@@ -71,6 +72,7 @@ InitService에 1명의 유저와 2명의 회사를 미리 등록
 
 
 ## 2.채용공고 수정
+---
 
 ### Request
 
@@ -105,6 +107,7 @@ InitService에 1명의 유저와 2명의 회사를 미리 등록
 
 
 ## 3.채용공고 삭제
+---
 
 ### Request
 
@@ -130,6 +133,7 @@ InitService에 1명의 유저와 2명의 회사를 미리 등록
 
 
 ## 4.채용공고 목록
+---
 
 ### Request
 
@@ -183,6 +187,7 @@ InitService에 1명의 유저와 2명의 회사를 미리 등록
     }
 
 ## 4-1.채용공고 검색 기능
+---
 
 ### Request
 
@@ -219,6 +224,7 @@ InitService에 1명의 유저와 2명의 회사를 미리 등록
     }
 
 ## 5.채용 상세 페이지
+---
 
 ### Request
 
@@ -257,6 +263,7 @@ InitService에 1명의 유저와 2명의 회사를 미리 등록
     }
 
 ## 6.채용공고에 지원
+---
 
 ### Request
 
@@ -280,3 +287,9 @@ InitService에 1명의 유저와 2명의 회사를 미리 등록
         "msg": "같은 채용공고에 중복 지원을 불가합니다!",
         "data": null
     }
+
+
+## DB 설계
+---
+
+<img src = "https://github.com/Yeon-seok/wanted-pre-onboarding-backend/assets/56334468/110e857f-031c-485b-839b-0c7a8596f09d" width = "700">
