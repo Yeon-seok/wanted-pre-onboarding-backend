@@ -279,12 +279,9 @@ InitService에 1명의 유저와 2명의 회사를 미리 등록
         "msg": "같은 채용공고에 중복 지원을 불가합니다!",
         "data": null
     }
-<<<<<<< HEAD
 
 
 ## DB 설계
 ---
 
 <img src = "https://github.com/Yeon-seok/wanted-pre-onboarding-backend/assets/56334468/110e857f-031c-485b-839b-0c7a8596f09d" width = "700">
-=======
->>>>>>> 6dfe6fbdb34ea66ce23aa2e011a59a190826d594
